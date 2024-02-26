@@ -1,3 +1,4 @@
+from xgboost import XGBRegressor
 import xgboost as xgb
 import streamlit as st
 import pandas as pd
